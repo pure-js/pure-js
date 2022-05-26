@@ -1,5 +1,6 @@
 ### Hi there 👋
-If you are intrested in examples of the enterprise-level code i write, you can check out the following repositories:
+Are intrested in examples of the enterprise-level code i write?
+Сheck out the following repositories:
 - :pencil: [local-microblogging-client](https://github.com/pure-js/local-microblogging-client) Tech: React
 - :question: [code-quiz-react](https://github.com/pure-js/code-quiz-react) Tech: React, TypeScript
 - :oncoming_automobile: [auto-manufacturers](https://github.com/pure-js/auto-manufacturers) Tech: React, TypeScript
