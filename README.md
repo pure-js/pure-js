@@ -1,5 +1,5 @@
 ### Hi there 👋
-Are intrested in examples of the enterprise-level code i write?  
+Are you intrested in examples of the enterprise-level code i write?  
 Сheck out the following repositories:
 - :pencil: [local-microblogging-client](https://github.com/pure-js/local-microblogging-client) Tech: React
 - :question: [code-quiz-react](https://github.com/pure-js/code-quiz-react) Tech: React, TypeScript
