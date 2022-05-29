@@ -1,7 +1,7 @@
 ### Hi there 👋
 Are you intrested in examples of the enterprise-level code i write?  
 Сheck out the following repositories:
-- :pencil: [local-microblogging-client](https://github.com/pure-js/local-microblogging-client) Tech: React
+- :pencil: [local-microblogging-client](https://github.com/pure-js/local-microblogging-client) Tech: React CRUD with IndexedDB storage
 - :question: [code-quiz-react](https://github.com/pure-js/code-quiz-react) Tech: React, TypeScript
 - :oncoming_automobile: [auto-manufacturers](https://github.com/pure-js/auto-manufacturers) Tech: React, TypeScript
 
