@@ -1,9 +1,14 @@
-### Hi there 👋
-Are you intrested in examples of the enterprise-level code i write?  
-Сheck out the following repositories:
-- :pencil: [local-microblogging-client](https://github.com/pure-js/local-microblogging-client) Tech: React CRUD with IndexedDB storage (Dexie.js), TypeScript
-- :question: [quiz-react-app](https://github.com/pure-js/quiz-react-app) Tech: React, TypeScript
-- :oncoming_automobile: [auto-manufacturers](https://github.com/pure-js/auto-manufacturers) Tech: React, TypeScript
+# Hi there 👋
+Intrested to see the code i'm write?
+
+## ⚡ My Pet projects
+- 🤪 [React.js Hello World | Enterprise Edition](https://github.com/pure-js/react-hello-world-enterprise-edition) - Just a fun repository that aims to make a task as simple as displaying a Hello World message as full of frontend related techologies as possible! And what if it's a good starter kit?
+- ☕️ [Coffee Brewing | watchOS App](https://github.com/pure-js/brew-experiment) - Oh yes, it's `Swift`, Not `TypeScript`, but why not to give it a try?
+
+## 👨‍💻 Also please check out the following repositories:
+- :pencil: [Local Microblogging Client](https://github.com/pure-js/local-microblogging-client) Tech: React CRUD with IndexedDB storage (Dexie.js), TypeScript
+- :question: [Quiz React app](https://github.com/pure-js/quiz-react-app) Tech: React, TypeScript
+- :oncoming_automobile: [Auto Manufacturers](https://github.com/pure-js/auto-manufacturers) Tech: React, TypeScript
 
 <!--
 **pure-js/pure-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
