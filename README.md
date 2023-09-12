@@ -2,8 +2,8 @@
 Intrested to see the code i'm write?
 
 ## ⚡ My Pet projects
-- 🤪 [React.js Hello World | Enterprise Edition](https://github.com/pure-js/react-hello-world-enterprise-edition) - Just a fun repository that aims to make a task as simple as displaying a Hello World message as full of frontend related techologies as possible! And what if it's a good starter kit?
-- ☕️ [Coffee Brewing | watchOS App](https://github.com/pure-js/brew-experiment) - Oh yes, it's `Swift`, Not `TypeScript`, but why not to give it a try?
+- 🤪 [React.js Hello World | Enterprise Edition](https://github.com/pure-js/react-hello-world-enterprise-edition) - Just a fun repository that aims to make a task as simple as displaying a Hello World message as full of frontend related techologies as possible! And what if it's a good starter kit for your next React.js project?
+- ☕️ [Coffee Brewing | watchOS App](https://github.com/pure-js/brew-experiment) - Yes, it's written in `Swift`, not in `TypeScript`, but why not to give it a try?
 
 ## 👨‍💻 Also please check out the following repositories:
 - :pencil: [Local Microblogging Client](https://github.com/pure-js/local-microblogging-client) Tech: React CRUD with IndexedDB storage (Dexie.js), TypeScript
