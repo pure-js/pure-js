@@ -11,7 +11,7 @@ Intrested to see the code i'm write?
 
 - :pencil: [Local Microblogging Client](https://github.com/pure-js/local-microblogging-client) Tech: React CRUD with IndexedDB storage (Dexie.js), TypeScript
 - 🔐 [Auth Components](https://github.com/pure-js/auth-components) Tech: React, TypeScript, SCSS + CSS Modules
-- :oncoming_automobile: [Auto Manufacturers](https://github.com/pure-js/auto-manufacturers) Tech: React, TypeScript
+- :oncoming_automobile: [Auto Manufacturers](https://github.com/pure-js/auto-manufacturers) Tech: Next.js, React, TypeScript, 
 - :question: [Quiz React app](https://github.com/pure-js/quiz-react-app) Tech: React, TypeScript
 
 ## 🔭 I’m currently working on ...
@@ -19,7 +19,7 @@ Intrested to see the code i'm write?
 ### AI assistant Full Stack app
 Backend Tech: Node.js, TypeScript, Fastify
 
-Frontend Tech: Svelte, Astro, Tailwind CSS, shadcn/ui
+Frontend Tech: Svelte, Astro, TypeScript Tailwind CSS, shadcn/ui
 
 <!--
 **pure-js/pure-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
