@@ -17,9 +17,10 @@ Intrested to see the code i'm write?
 ## 🔭 I’m currently working on ...
 
 ### AI assistant Full Stack app
-Backend Tech: Node.js, TypeScript, Fastify
 
-Frontend Tech: Svelte, Astro, TypeScript Tailwind CSS, shadcn/ui
+Backend Tech: Deno 2, Hono, TypeScript, Zed
+
+Frontend Tech: Svelte, Astro, TypeScript, Tailwind CSS, shadcn/ui
 
 <!--
 **pure-js/pure-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
