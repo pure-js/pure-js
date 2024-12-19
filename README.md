@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Intrested to see the code i'm write?
+Want to see the code I write?
 
 ## ⚡ My Pet projects
 
@@ -9,7 +9,7 @@ Intrested to see the code i'm write?
 
 ## 👨‍💻 Also please check out the following repositories:
 
-- :pencil: [Local Microblogging Client](https://github.com/pure-js/local-microblogging-client) Tech: React CRUD with IndexedDB storage (Dexie.js), TypeScript
+- :pencil: [Self-hosted Microblogging](https://github.com/pure-js/self-hosted-microblogging) Tech: React CRUD with IndexedDB storage (Dexie.js), TypeScript
 - 🔐 [Auth Components](https://github.com/pure-js/auth-components) Tech: React, TypeScript, SCSS + CSS Modules
 - :oncoming_automobile: [Auto Manufacturers](https://github.com/pure-js/auto-manufacturers) Tech: Next.js, React, TypeScript,
 - :question: [Quiz React app](https://github.com/pure-js/quiz-react-app) Tech: React, TypeScript
