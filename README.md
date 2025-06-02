@@ -13,7 +13,7 @@ Want to see the code I write?
 - 🔐 [Auth Components](https://github.com/pure-js/auth-components) Tech: React, TypeScript, CSS-in-JS
 - :oncoming_automobile: [Auto Manufacturers](https://github.com/pure-js/auto-manufacturers) Tech: Next.js, React, TypeScript,
 - :question: [Quiz React app](https://github.com/pure-js/quiz-react-app) Tech: React, TypeScript
-- 👾 [Star Network](https://github.com/pure-js/star-network) Tech: Next.js, React, **GraphQL**, TypeScript
+- 👾 [Star Network](https://github.com/pure-js/star-network) Tech: Remix, React, TypeScript
 
 ## 🔭 I’m currently working on ...
 
